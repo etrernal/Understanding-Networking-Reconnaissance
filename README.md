@@ -1,7 +1,7 @@
 ### 1. Network Scan Results
 This description explains what the user is seeing in the terminal output below.
 
-![Description of image](image_url_here)
+![Description of image] Nmap discovery.png
 
 ---
 
