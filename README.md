@@ -1,6 +1,11 @@
-# Understanding-Networking-Reconnaissance
-Network Reconnaissance is the systematic discovery of a target's digital footprint. By mapping active hosts, open ports, and service versions, I identify the attack surface and potential entry points. This phase is the strategic foundation of any penetration test, turning raw infrastructure data into actionable intelligence.
+### 1. Network Scan Results
+This description explains what the user is seeing in the terminal output below.
 
+![Description of image](image_url_here)
 
-![Network Discovery Phase](Network%20discovery.png)
-![Nmap Scan Results](Nmap%20discovery.png)
+---
+
+### 2. Ubuntu Login Screen
+Here is the description for the second image, separated by a horizontal rule for extra clarity.
+
+![Description of image](image_url_here)
